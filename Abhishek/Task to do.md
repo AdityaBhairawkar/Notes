@@ -1,0 +1,11 @@
+- [ ] Cold shower 
+- [ ] Running or Waking 
+- [ ] Journal 
+- [x] Less processed food ✅ 2025-05-24
+- [ ] Meditation 
+- [x] Drink 3ltr of water ✅ 2025-05-24
+- [ ] Read 30 min
+- [ ] Follow skincare routine 
+- [ ] Stretching 
+- [x] Less Sugar ✅ 2025-05-24
+- [x] Exercise daily ✅ 2025-06-17
