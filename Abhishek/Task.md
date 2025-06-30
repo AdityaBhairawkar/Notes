@@ -1,3 +1,3 @@
-- [ ] Complete EC2 Notes ⏬ 
+- [ ] Complete EC2 Notes ⏬
 - [ ] revisit Operating System notes might need to add some more content 🔽
 - [ ] revisit automating shell scripting from book and practice automation using shell scripting
